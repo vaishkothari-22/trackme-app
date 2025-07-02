@@ -1,0 +1,14 @@
+
+body {
+    background: rgb(2, 0, 36);
+    background: radial-gradient(
+      circle,
+      rgba(2, 0, 36, 1) 0%,
+      rgba(30, 54, 59, 1) 0%,
+      rgb(152, 192, 130) 100%
+    );
+  }
+
+  .e1{
+    outline:auto;
+  }
